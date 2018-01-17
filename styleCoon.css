@@ -1,4 +1,10 @@
 body {
-	background-image: url(Group5BG.png);	
-
+	background: no-repeat;
+	background: fixed;
+	background-image: url(Group5BG.png);
+	background-position: center;
+	background-size: 100vw 100vh;	
+}
+body div.elipsebg {
+	background: 
 }
