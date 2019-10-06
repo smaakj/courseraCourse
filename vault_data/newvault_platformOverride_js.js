@@ -1,2 +1,0 @@
-(function(b){b.generateSharingKeys=function(a){a(!1)};b.canBackgroundOpenPopover=function(){return!1};b.getResourcePath=function(a){if("undefined"!==typeof filemtimes&&"undefined"!==typeof filemtimes[a]){var b=filemtimes[a];a=a.replace(/[\.\/]/g,"_");return"../m.php/newvault_"+a+"?"+encodeURIComponent(b)}return a};b.openURL=function(a){window.open(a)};b.getBaseURL=function(a){return""};b.loadedPreferences=function(){return!0};b.supportsBinary=function(){return!1};b.lpIsExtension=function(){return!1}})(LPPlatform);
-//# sourceMappingURL=newvault_platformOverride_js.js.map

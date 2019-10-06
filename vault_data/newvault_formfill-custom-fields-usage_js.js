@@ -1,3 +1,0 @@
-(function(){Topics.get(Topics.LOGIN).subscribe(function(){var b=0,c=0,d=0,e=LPProxy.getFormFills(),g=!!LPProxy.getLinkedAccount(),f;for(f in e){var a=e[f]._model._data,h=!!e[f]._model._sharedGroup;(!a.evephone3lcc&&(a.evephone||a.evephone)||!a.mobilephone3lcc&&(a.mobilephone||a.mobileext)||!a.fax&&(a.fax3lcc||a.faxext))&&d++;h?c++:b++}bg&&bg.sendLpImprove&&bg.sendLpImprove("formfill-stats",{"own-formfills":b?b:"0","has-linked-account":g?"true":"false","linked-form-fills":c?c:"0","broken-formfill-count":d?
-d:"0"})})})();
-//# sourceMappingURL=newvault_formfill-custom-fields-usage_js.js.map
