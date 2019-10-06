@@ -1,0 +1,2 @@
+MigrationBackground=new MigrationBackgroundWeb;FormfillMigrationBackground=new FormfillMigrationBackgroundWeb;
+//# sourceMappingURL=newvault_migrationsWeb_js.js.map

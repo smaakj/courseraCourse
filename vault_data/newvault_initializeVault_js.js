@@ -1,0 +1,2 @@
+parent&&parent.websiteOverrides&&(bg=parent.LPPlatform.getBackgroundInterface(),document.addEventListener("DOMContentLoaded",function(){Topics.get(Topics.INITIALIZED).publish();parent.websiteOverrides()}));
+//# sourceMappingURL=newvault_initializeVault_js.js.map
